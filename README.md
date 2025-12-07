@@ -1,53 +1,19 @@
+Hi 👋 My name is AbdelRahman Sabahy
+===================================
 
-# 👋 Hi, I'm AbdelRahman Sabahy 
-🎓 **Software Engineering Student** | 💻 **Back-End Developer**  
-📍 Menya El Qamh, Egypt  
+Back-End Developer | Software Engineering
+-----------------------------------------
 
----
+I've been passionate about software development since starting my journey at Benha University. I specialize in Back-End Development using ASP.NET MVC, C#, and SQL Server, and I love building scalable and efficient web applications. I also have experience with LINQ, Entity Framework Core, and Web APIs, and I'm continuously learning new technologies to improve my skills.
 
-## 🚀 About Me
-I'm a **third-year Software Engineering student** at **Benha University** passionate about building scalable and efficient web applications. I specialize in **Back-End Development** using **ASP.NET MVC** and have hands-on experience with **databases**, **OOP**, and **LINQ**.
+* 🌍  I'm based in Egypt
+* ✉️  You can contact me at [abdosabahi30@gmail.com](mailto:abdosabahi30@gmail.com)
+* 🧠  I'm currently learning Advanced .NET concepts
 
----
-
-## 🛠️ Tech Stack
-<!-- أيقونات كبيرة -->
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="vr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascriptsvg
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="45cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftplain.svg
-  <img src="https://cdn.jsdelivr.net/gh/devicons/dev/git/git-original.svg
-  <img src="https://cdn.jsdelivr.net/ghdevicon/icons/github/github-original.svg
-  <img src="https://cdnnet/gh/devicons/devicon/icons/docker/docker-original.svg
-  <img src="https://cdn.jsdelivr.net/gh/devicons/deviconusplus/cplusplus-original.svg
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original
-<!-- Badges -->
-<p align="center">
-  <img src="g.shields.io/badge/LINQ-%23512BD4?style=for-the-badge&logo=.net&logoColor=white
-  <img src="https://img.shields.io/badge/EF%20Core-%23512BD4?style=for-the-badge&logo=.net=white
-  <img src="https://img.shields.io/badge/ASP.NET%20MVC-%23512BD4?style=for-the-badge&logo=.net=white
-  <img src="https://img.shields.io/badge/ASP.NET%20Web%20API-%23512BD4?style=for&logo=.net&logoColor=white
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" alt="C#" title="C#" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" title="Bootstrap" width="36" height="36" /></a><a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" alt="Oracle" title="Oracle" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" alt=".NET" title=".NET" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a>
 </p>
 
----
+### Socials
 
-## 🔥 Projects
-- **Student Management System**  
-  CRUD system for managing student data using ASP.NET MVC & SQL Server  
-  View on GitHub
-
-- **Movie Management System**  
-  CRUD system for movie management using ASP.NET MVC & SQL Server  
-  View on GitHub
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdoSabahi&show_icons=true&theme=radicalc="https://github-readme-streak-stats.herokuapp.com/?user=AbdoSabahi&theme <img src="https://github-readme-stats.vercel.app/api/?username=AbdoSabahi&layout=compact&theme=radical
-</p>
-
----
-
-## 🌐 Connect With Me
-- **LinkedIn:** [linkedin.com/in/abdelrahman-sabahy-4728b434b](https://linkedin.com/in/abdelrahman  
+<p align="left"> <a href="https://www.github.com/AbdoSabahi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/abdelrahman-sabahy-4728b434b" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
